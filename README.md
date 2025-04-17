@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Yastube, **Full stack Developer**. I'm 14, I started making minecraft servers since 3-4 years now, (**Owner of teamenvex.de**) [**Website**](https://teamenvex.de). I also make video games, minecraft servers and websites.
+🎓 I am Yastube, **Full stack Developer**. I'm 14, I started making minecraft servers since 3-4 years now, (**Owner of teamenvex**) . I also make video games, minecraft servers and websites.
 
 👨‍💻 I enjoy coding video games in my free time. I have alot of video games that i have coded like Co-Op Craze, Blast Rodes, Ping Pong, Moon Jumper and more than that :). Most of my other projects are minecraft servers coded in skript.
 
@@ -11,7 +11,9 @@
 
 -   💻 **YSPanel** A control panel plugin for your minecraft server
 -   📝 **Blast Rodes** Still working on it.
--   🏆 **TeamEnvex.DE**
+-   🏆 **TeamEnvex**
+-   📝 **Redstone TTT**
+-   📝 **DcBot**
 -   ⏫ **Co-Op Craze**
 -   💻 **2D Survival Game** Still working on it.
 -   🚁 **Moon Jumper**
