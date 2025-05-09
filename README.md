@@ -10,14 +10,13 @@
 ## ⭐ Projects
 
 -   💻 **YSPanel** A control panel plugin for your minecraft server
--   📝 **Blast Rodes** Still working on it.
--   🏆 **TeamEnvex**
--   📝 **Redstone TTT**
+-   📝 **Blast Rodes** 2D dungeon type game with waves.
+-   🏆 **TeamEnvex** Minecraft server
 -   📝 **DcBot**
 -   ⏫ **Co-Op Craze**
--   💻 **2D Survival Game** Still working on it.
+-   💻 **Teroli** 2D Tileset survival game.
 -   🚁 **Moon Jumper**
--   ⭐ **Tiles System/Seed System** Still working on it.
+-   ⭐ **Tilesystem Engine**
 -   🤝 **FastBuilder**
 
 ## 🛠️ Skills
