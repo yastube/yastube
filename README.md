@@ -22,12 +22,12 @@
 - 🦺  │  Safemap
 > 
 >  ➛ __Minecraft Projects__
->     <:Trophy:1324281306279972954>   |  TeamEnvex
->     🚪   |  DoorsMC
->     ⛏️   |  FastBuilder
->     🖱️   |  Reducer
->     🛏️   |  BedClutch
->     🌎   |  Minecraft World Hoster
+- 🏆   │ TeamEnvex
+- 🚪   │ DoorsMC
+- ⛏️   │ FastBuilder
+- 🖱️   │ Reducer
+- 🛏️   │ BedClutch
+- 🌎   │ Minecraft World Hoster
 
  ➛ Applications
     📂  |  YSPanel
