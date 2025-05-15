@@ -26,7 +26,7 @@
 
 ## 🛠️ Skills
 
-###➛ __Languages__
+### ➛ __Languages__
 
 ![javascript](https://img.shields.io/badge/Java%20Script-20232A?style=for-the-badge&logo=javascript&logoColor=white)
 ![GDScript](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=for-the-badge)
@@ -37,7 +37,7 @@
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-###➛ __Programs__
+### ➛ __Programs__
 
 ![Photopea Badge](https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=fff&style=for-the-badge)
 
