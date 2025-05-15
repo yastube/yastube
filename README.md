@@ -16,7 +16,7 @@
 
 ### ➛ __Applications__
 - 🏓  │ Ping Pong   &nbsp; &nbsp; &nbsp; &nbsp;- 🎮  │ Coop-Craze
-- 📂  │ YSPanel &nbsp; &nbsp; &nbsp; &nbsp; - 💻﻿  │ Fiery.GG
+- 📂  │ YSPanel &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - 💻﻿  │ Fiery.GG
 - 🦺  │  Safemap
 
 ### ➛ __Minecraft Projects__
