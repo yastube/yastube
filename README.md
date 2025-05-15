@@ -29,18 +29,6 @@
 - 🛏️   │ BedClutch
 - 🌎   │ Minecraft World Hoster
 
- ➛ Applications
-    📂  |  YSPanel
-    💻﻿  |  Fiery.GG
-    🦺  |  Safemap
-
- ➛ Minecraft Projects
-    :Trophy:   |  TeamEnvex
-    🚪   |  DoorsMC
-    ⛏️   |  FastBuilder
-    🖱️   |  Reducer
-    🛏️   |  BedClutch
-    🌎   |  Minecraft World Hoster
 
 ## 🛠️ Skills
 
