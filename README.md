@@ -15,7 +15,6 @@
  - 💚  │ Teroli
 
 ### ➛ __Applications__
-- 🏓  │ Ping Pong   &nbsp; &nbsp; &nbsp; &nbsp;- 🎮  │ Coop-Craze
 - 📂  │ YSPanel &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- 💻﻿  │ Fiery.GG
 - 🦺  │  Safemap
 
