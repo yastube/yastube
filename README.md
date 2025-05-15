@@ -9,15 +9,11 @@
 
 ## ⭐ Projects
 ➛ Video Games
-    🏓  -  Ping Pong
-    🎮  -  Coop-Craze
-    👾  -  Blast Roades
-    🌲  -  NightFall
-asd
-asdasD
-asdasd
-
-    🚀 ﻿ |  Space Missile
+-    🏓  |  Ping Pong
+-    🎮  |  Coop-Craze
+-    👾  |  Blast Roades
+-    🌲  |  NightFall
+      🚀 ﻿ |  Space Missile
   ﻿  💚  |  Teroli
 
  ➛ Applications
