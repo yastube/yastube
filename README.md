@@ -32,7 +32,7 @@
 
 ## 🛠️ Skills
 
-### Languages
+###➛ __Languages__
 
 ![javascript](https://img.shields.io/badge/Java%20Script-20232A?style=for-the-badge&logo=javascript&logoColor=white)
 ![GDScript](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=for-the-badge)
