@@ -20,8 +20,8 @@
 - 📂  │ YSPanel
 - 💻﻿  │ Fiery.GG
 - 🦺  │  Safemap
-> 
->  ➛ __Minecraft Projects__
+ 
+ ➛ __Minecraft Projects__
 - 🏆   │ TeamEnvex
 - 🚪   │ DoorsMC
 - ⛏️   │ FastBuilder
@@ -41,13 +41,6 @@
     🖱️   |  Reducer
     🛏️   |  BedClutch
     🌎   |  Minecraft World Hoster
--   💻 **YSPanel** A control panel plugin for your minecraft server
--   📝 **Blast Rodes** 2D dungeon type game with waves.
--   🏆 **TeamEnvex** Minecraft server
--   ⏫ **Co-Op Craze**
--   💻 **Teroli** 2D Tileset survival game.
--   ⭐ **Tilesystem Engine**
--   🤝 **FastBuilder**
 
 ## 🛠️ Skills
 
