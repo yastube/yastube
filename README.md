@@ -9,9 +9,8 @@
 
 ## ⭐ Projects
 ### ➛ __Video Games__
- - 🏓  │ Ping Pong
- - 🎮  │ Coop-Craze
- - 👾  │ Blast Roades
+ - 🏓  │ Ping Pong    | 🎮  │ Coop-Craze
+ - 👾  │ Blast Roades | 👾  │ NightFall
  - 👾  │ NightFall
  - 🚀 ﻿ │ Space Missile
  - 💚  │ Teroli
