@@ -10,11 +10,11 @@
 ## ⭐ Projects
 ➛ Video Games
 -    🏓  │ Ping Pong
--    🎮  |    Coop-Craze
--    👾  |    Blast Roades
--    🌲  |    NightFall
-      🚀 ﻿ |  Space Missile
-  ﻿  💚  |  Teroli
+-    🎮  │ Coop-Craze
+-    👾  │ Blast Roades
+-    🌲  │ NightFall
+-    🚀 ﻿ │ TSpace Missile
+-  ﻿  💚  │ Teroli
 
  ➛ Applications
     📂  |  YSPanel
