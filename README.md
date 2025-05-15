@@ -22,7 +22,7 @@
 ### ➛ __Minecraft Projects__
 - 🏓 │ Ping Pong        - 🎮 │ Coop-Craze
 - 🏓  │ Ping Pong   &nbsp; &nbsp; &nbsp; &nbsp;- 🎮  │ Coop-Craze
-- 🏆   │ TeamEnvex &nbsp; &nbsp; &nbsp; &nbsp; - 🚪   │ DoorsMC
+- 🏆   │ TeamEnvex &nbsp; &nbsp; &nbsp; - 🚪   │ DoorsMC
 - ⛏️   │ FastBuilder - 🖱️   │ Reducer
 - 🛏️   │ BedClutch - 🌎   │ Minecraft World Hoster
 
