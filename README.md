@@ -11,8 +11,7 @@
 ### ➛ __Video Games__
  - 🏓  │ Ping Pong   &nbsp; &nbsp; &nbsp; &nbsp;- 🎮  │ Coop-Craze
  - 👾  │ Blast Roades &nbsp; &nbsp;- 👾  │ NightFall
- - 👾  │ NightFall
- - 🚀 ﻿ │ Space Missile
+ - 👾  │ NightFall &nbsp; &nbsp;- 🚀 ﻿ │ Space Missile
  - 💚  │ Teroli
 
 ### ➛ __Applications__
