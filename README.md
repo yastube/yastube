@@ -12,9 +12,9 @@
 > -    🏓  │ Ping Pong
 > -    🎮  │ Coop-Craze
 > -    👾  │ Blast Roades
->     🌲  |  NightFall
->     🚀 ﻿ |  Space Missile
->   ﻿  💚  |  Teroli
+> -   🌲  |  NightFall
+> -   🚀 ﻿ |  Space Missile
+> - ﻿  💚  |  Teroli
 # » __PROJECT LIST__
 > ➛ __Video Games__
 >     🏓  |  Ping Pong
