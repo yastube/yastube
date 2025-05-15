@@ -12,9 +12,30 @@
 -    🏓  │ Ping Pong
 -    🎮  │ Coop-Craze
 -    👾  │ Blast Roades
--    🌲  │ NightFall
--    🚀 ﻿ │ Space Missile
--  ﻿  💚  │ Teroli
+>     🌲  |  NightFall
+>     🚀 ﻿ |  Space Missile
+>   ﻿  💚  |  Teroli
+# » __PROJECT LIST__
+> ➛ __Video Games__
+>     🏓  |  Ping Pong
+>     🎮   |  Coop-Craze
+>     👾  |  Blast Roades
+>     🌲  |  NightFall
+>     🚀 ﻿ |  Space Missile
+>   ﻿  💚  |  Teroli
+> 
+>  ➛ __Applications__
+>     📂  |  YSPanel
+>     💻﻿   |  Fiery.GG
+>     🦺   |  Safemap
+> 
+>  ➛ __Minecraft Projects__
+>     <:Trophy:1324281306279972954>   |  TeamEnvex
+>     🚪   |  DoorsMC
+>     ⛏️   |  FastBuilder
+>     🖱️   |  Reducer
+>     🛏️   |  BedClutch
+>     🌎   |  Minecraft World Hoster
 
  ➛ Applications
     📂  |  YSPanel
