@@ -9,7 +9,7 @@
 
 ## ⭐ Projects
 ➛ Video Games
-> - 🏓  │ Ping Pong
+> - 🏓  │ Ping Pong <span style="color:white">Text</span>
 > - 🎮  │ Coop-Craze
 > - 👾  │ Blast Roades
 > - 👾  │ NightFall
