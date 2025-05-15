@@ -12,8 +12,8 @@
 -    🏓  │ Ping Pong
 -    🎮  │ Coop-Craze
 -    👾  │ Blast Roades
--    🌲   │ NightFall
--    🚀 ﻿ │ TSpace Missile
+-    🌲  │ NightFall
+-    🚀 ﻿ │ Space Missile
 -  ﻿  💚  │ Teroli
 
  ➛ Applications
