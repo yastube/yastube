@@ -8,7 +8,26 @@
 
 
 ## ⭐ Projects
+➛ Video Games
+    🏓  |  Ping Pong
+    🎮  |  Coop-Craze
+    👾  |  Blast Roades
+    🌲  |  NightFall
+    🚀 ﻿ |  Space Missile
+  ﻿  💚  |  Teroli
 
+ ➛ Applications
+    📂  |  YSPanel
+    💻﻿  |  Fiery.GG
+    🦺  |  Safemap
+
+ ➛ Minecraft Projects
+    :Trophy:   |  TeamEnvex
+    🚪   |  DoorsMC
+    ⛏️   |  FastBuilder
+    🖱️   |  Reducer
+    🛏️   |  BedClutch
+    🌎   |  Minecraft World Hoster
 -   💻 **YSPanel** A control panel plugin for your minecraft server
 -   📝 **Blast Rodes** 2D dungeon type game with waves.
 -   🏆 **TeamEnvex** Minecraft server
