@@ -20,13 +20,9 @@
 - 🦺  │  Safemap
 
 ### ➛ __Minecraft Projects__
-- 🏆   │ TeamEnvex
-- 🚪   │ DoorsMC
-- ⛏️   │ FastBuilder
-- 🖱️   │ Reducer
-- 🛏️   │ BedClutch
-- 🌎   │ Minecraft World Hoster
-
+- 🏆   │ TeamEnvex - 🚪   │ DoorsMC
+- ⛏️   │ FastBuilder - 🖱️   │ Reducer
+- 🛏️   │ BedClutch - 🌎   │ Minecraft World Hoster
 
 ## 🛠️ Skills
 
