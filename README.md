@@ -8,7 +8,7 @@
 
 
 ## ⭐ Projects
-➛ Video Games
+###➛ Video Games
  - 🏓  │ Ping Pong
  - 🎮  │ Coop-Craze
  - 👾  │ Blast Roades
@@ -16,12 +16,12 @@
  - 🚀 ﻿ │ Space Missile
  - 💚  │ Teroli
 
- ➛ __Applications__
+###➛ __Applications__
 - 📂  │ YSPanel
 - 💻﻿  │ Fiery.GG
 - 🦺  │  Safemap
- 
- ➛ __Minecraft Projects__
+
+###➛ __Minecraft Projects__
 - 🏆   │ TeamEnvex
 - 🚪   │ DoorsMC
 - ⛏️   │ FastBuilder
