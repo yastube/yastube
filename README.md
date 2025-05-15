@@ -15,8 +15,8 @@
  - 💚  │ Teroli
 
 ### ➛ __Applications__
-- 📂  │ YSPanel
-- 💻﻿  │ Fiery.GG
+- 🏓  │ Ping Pong   &nbsp; &nbsp; &nbsp; &nbsp;- 🎮  │ Coop-Craze
+- 📂  │ YSPanel &nbsp; &nbsp; &nbsp; &nbsp; - 💻﻿  │ Fiery.GG
 - 🦺  │  Safemap
 
 ### ➛ __Minecraft Projects__
