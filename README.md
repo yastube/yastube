@@ -19,9 +19,9 @@
 - 🦺  │  Safemap
 
 ### ➛ __Minecraft Projects__
-- 🏓  │ Ping Pong   &nbsp; &nbsp; &nbsp; &nbsp;- 🎮  │ Coop-Craze
-- 🏆   │ TeamEnvex &nbsp; &nbsp; &nbsp; - 🚪   │ DoorsMC
-- ⛏️   │ FastBuilder &nbsp; &nbsp; &nbsp; - 🖱️   │ Reducer
+- 🏓  │ Ping Pong   &nbsp; &nbsp; &nbsp; &nbsp;⏺︎ 🎮  │ Coop-Craze
+- 🏆   │ TeamEnvex &nbsp; &nbsp; &nbsp; ● 🚪   │ DoorsMC
+- ⛏️   │ FastBuilder &nbsp; &nbsp; &nbsp; ⚫ 🖱️   │ Reducer
 - 🛏️   │ BedClutch &nbsp; &nbsp; &nbsp; &nbsp;- 🌎   │ Minecraft World Hoster
 
 ## 🛠️ Skills
