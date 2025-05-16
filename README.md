@@ -6,7 +6,6 @@
 
 👨‍💻 Video game development is my favorite hobby, I spend a lot of my time mastering the art of game design and mechanics. on the other side, I also use Skript to automate a multitude of stuff in Minecraft.
 
-
 ## ⭐ Projects
 ### ➛ __Video Games__
  - 🏓  │ Ping Pong   &nbsp; &nbsp; &nbsp; &nbsp;• 🎮  │ Coop-Craze
@@ -19,7 +18,6 @@
 - 🦺  │  Safemap
 
 ### ➛ __Minecraft Projects__
-- 🏓  │ Ping Pong   &nbsp; &nbsp; &nbsp; &nbsp;**•** 🎮  │ Coop-Craze
 - 🏆   │ TeamEnvex &nbsp; &nbsp; &nbsp; **•** 🚪   │ DoorsMC
 - ⛏️   │ FastBuilder &nbsp; &nbsp; &nbsp; **•** 🖱️   │ Reducer
 - 🛏️   │ BedClutch &nbsp; &nbsp; &nbsp; &nbsp;__•__ 🌎 │ Minecraft World Hoster
