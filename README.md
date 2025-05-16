@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Yastube, **Full stack Developer**. I'm 14, I started making minecraft servers since 3-4 years now, (**Owner of teamenvex**) . I also make video games, minecraft servers and websites.
+🎓 I'm Yastube, A 14 year old Full Stack Developer with 4 years of Minecraft Based Development Experience, Game Development and Web Design.
 
 👨‍💻 Video game development is my favorite hobby, I spend a lot of my time mastering the art of game design and mechanics. on the other side, I also use Skript to automate a multitude of stuff in Minecraft.
 
