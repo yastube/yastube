@@ -9,20 +9,20 @@
 
 ## ⭐ Projects
 ### ➛ __Video Games__
- - 🏓  │ Ping Pong   &nbsp; &nbsp; &nbsp; &nbsp;- 🎮  │ Coop-Craze
- - 👾  │ Blast Roades &nbsp; &nbsp;- 👾  │ NightFall
- - 👾  │ NightFall &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- 🚀 ﻿ │ Space Missile
+ - 🏓  │ Ping Pong   &nbsp; &nbsp; &nbsp; &nbsp;• 🎮  │ Coop-Craze
+ - 👾  │ Blast Roades &nbsp; &nbsp;• 👾  │ NightFall
+ - 👾  │ NightFall &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• 🚀 ﻿ │ Space Missile
  - 💚  │ Teroli
 
 ### ➛ __Applications__
-- 📂  │ YSPanel &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- 💻﻿  │ Fiery.GG
+- 📂  │ YSPanel &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• 💻﻿  │ Fiery.GG
 - 🦺  │  Safemap
 
 ### ➛ __Minecraft Projects__
 - 🏓  │ Ping Pong   &nbsp; &nbsp; &nbsp; &nbsp;**•** 🎮  │ Coop-Craze
 - 🏆   │ TeamEnvex &nbsp; &nbsp; &nbsp; **•** 🚪   │ DoorsMC
 - ⛏️   │ FastBuilder &nbsp; &nbsp; &nbsp; **•** 🖱️   │ Reducer
-- 🛏️   │ BedClutch &nbsp; &nbsp; &nbsp; &nbsp;__•__ 🌎 │ Minecraft World Hoster
+- 🛏️   │ BedClutch &nbsp; &nbsp; &nbsp; &nbsp; __•__ 🌎 │ Minecraft World Hoster
 
 ## 🛠️ Skills
 
