@@ -13,7 +13,7 @@
  - 👾  │ NightFall &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• 🚀 ﻿ │ Space Missile
 
 ### ➛ __Applications__
-- 📂  │ YSPanel &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• 💻﻿  │ Fiery.GG
+- 📂  │ YSPanel &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• 💻﻿  │ MCNames
 - 🦺  │  Safemap
 
 ### ➛ __Minecraft Projects__
@@ -26,11 +26,10 @@
 ### ➛ __Languages__
 
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
-![javascript](https://img.shields.io/badge/Java%20Script-20232A?style=for-the-badge&logo=javascript&logoColor=white)
-![GDScript](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=for-the-badge)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?logo=godotengine&logoColor=fff&style=for-the-badge)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![javascript](https://img.shields.io/badge/Java%20Script-20232A?style=for-the-badge&logo=javascript&logoColor=white)
 
-![scratch](https://img.shields.io/badge/Scratch-3776AB?style=for-the-badge&logo=scratch&logoColor=white)
 ![skript](https://img.shields.io/badge/Skript-20232A?style=for-the-badge&logo=code&logoColor=white)
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,6 +39,7 @@
 ### ➛ __Programs__
 
 ![Photopea Badge](https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=fff&style=for-the-badge)
+![scratch](https://img.shields.io/badge/Scratch-3776AB?style=for-the-badge&logo=scratch&logoColor=white)
 
 
 
